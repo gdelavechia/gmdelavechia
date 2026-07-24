@@ -76,6 +76,7 @@
     text-decoration:none;
     cursor:pointer;
   }
+  .brand:hover{color:var(--seal-gold);}
   .brand span{color:var(--seal-gold);}
   .navlinks{
     display:flex;
