@@ -73,6 +73,8 @@
     font-size:1.05rem;
     letter-spacing:0.06em;
     text-transform:uppercase;
+    text-decoration:none;
+    cursor:pointer;
   }
   .brand span{color:var(--seal-gold);}
   .navlinks{
